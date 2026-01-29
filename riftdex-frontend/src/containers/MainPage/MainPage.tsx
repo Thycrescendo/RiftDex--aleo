@@ -29,7 +29,7 @@ const MainPage: React.FC = () => {
   on Aleo's Blockchain
 </span>
 <span className="text-white text-lg font-Montserrat">
-  I0rd is a decentralized, AI-powered crypto trading app built on Aleo's Modular Layer 1 blockchain. It offers real-time trading, multi-chart analysis, personalized AI insights, and a community-driven platform for token discovery and discussion, transforming crypto trading into a transparent, accessible public good. <br />
+  RiftDex is a decentralized, AI-powered crypto trading app built on Aleo's Modular Layer 1 blockchain. It offers real-time trading, multi-chart analysis, personalized AI insights, and a community-driven platform for token discovery and discussion, transforming crypto trading into a transparent, accessible public good. <br />
   Trade like Binance, but decentralized and AI-enhanced
 </span>
           <div className="mt-10 md:flex md:flex-row flex-col justify-between">

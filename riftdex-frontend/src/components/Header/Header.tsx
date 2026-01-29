@@ -12,7 +12,7 @@ const Header = () => {
         <div className="flex items-center mr-20">
           <div className="bg-gradient-to-r from-blue1 to-blue2 w-10 h-10 rounded-full md:mr-4 animate-spin" />
           <span className="font-Montserrat font-bold text-white md:pl-0 pl-2">
-            <a>NFT.Ring</a>
+            <a>RiftDex</a>
           </span>
         </div>
         <div className="md:block hidden">
