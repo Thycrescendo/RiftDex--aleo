@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { Avatar } from '../../components/common/Avatar/Avatar';
 import { Button } from '../../components/common/Button/Button';
-import { Images } from '../../environment'; // Fixed typo from 'envaironmnet'
+import { Images } from '../../environment'; 
 import Header from '../../components/Header/Header';
 
 
@@ -26,10 +26,10 @@ const MainPage: React.FC = () => {
           <span className="text-white font-bold font-Montserrat leading-normal text-5xl">
   The Home of <br />
   AI-Powered Crypto Trading <br />
-  on Aleo's Blockchain
+  on Aleo&apos;s Blockchain
 </span>
 <span className="text-white text-lg font-Montserrat">
-  RiftDex is a decentralized, AI-powered crypto trading app built on Aleo's Modular Layer 1 blockchain. It offers real-time trading, multi-chart analysis, personalized AI insights, and a community-driven platform for token discovery and discussion, transforming crypto trading into a transparent, accessible public good. <br />
+  RiftDex is a decentralized, AI-powered crypto trading app built on Aleo&apos;s Modular Layer 1 blockchain. It offers real-time trading, multi-chart analysis, personalized AI insights, and a community-driven platform for token discovery and discussion, transforming crypto trading into a transparent, accessible public good. <br />
   Trade like Binance, but decentralized and AI-enhanced
 </span>
           <div className="mt-10 md:flex md:flex-row flex-col justify-between">
