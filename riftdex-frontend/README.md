@@ -9,7 +9,7 @@ Think **Binance-level UX**, but **on-chain**, powered by autonomous AI agents th
 * **Live on Linera Mumbai / Amoy**
 * **Ready to scale & raise**
 
-## live demo: https://blitzswap.vercel.app/
+## live demo: https://riftdex.vercel.app
 
 ## deployed to: 0xa05913F7Da55d238BF210B414003149676889889 ⚙️ I0rdCore deployed to: 0x8182e0103717682ACd1632bD19891F94BbA5C32a ✅ Minted 10,000 USDC to deployer
 
