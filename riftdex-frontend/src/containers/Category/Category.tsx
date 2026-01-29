@@ -32,7 +32,7 @@ const Category: React.FC = () => {
           Browse Trading Categories
         </span>
         <span className="text-darkGray font-Montserrat text-lg mt-6">
-          Explore tokens, AI tools, and markets on I0rd&apos;s decentralized platform built on Aleo blockchain. <br />
+          Explore tokens, AI tools, and markets on RiftDex&apos;s decentralized platform built on Aleo blockchain. <br />
           Trade with real-time analysis and community insights
         </span>
       </div>
