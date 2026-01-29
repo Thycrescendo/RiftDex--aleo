@@ -1,21 +1,21 @@
-# **BlitzSwap – Decentralized AI-Powered Crypto Trading App**
+# **RiftDex – Decentralized AI-Powered Crypto Trading App**
 
 ## **Overview**
 
-**BlitzSwap** is a fully decentralized, AI-powered crypto trading platform built on **Linera** — the fastest and lowest-cost Layer-2 scaling solution.
+**RiftDex** is a fully decentralized, AI-powered crypto trading platform built on **Aleo** — the fastest and lowest-cost Layer-2 scaling solution.
 
 Think **Binance-level UX**, but **on-chain**, powered by autonomous AI agents that deliver real-time signals, personalized strategies, and automated trade execution — all for **sub-cent fees** with **sub-second finality**.
 
-* **Live on Linera Mumbai / Amoy**
+* **Live on Aleo Mumbai / Amoy**
 * **Ready to scale & raise**
 
-## live demo: https://riftdex.vercel.app
+## live demo: https://riftdex.vercel.app/
 
-## deployed to: 0xa05913F7Da55d238BF210B414003149676889889 ⚙️ I0rdCore deployed to: 0x8182e0103717682ACd1632bD19891F94BbA5C32a 
+## deployed to: 0xa05913F7Da55d238BF210B414003149676889889 ⚙️ I0rdCore deployed to: 0x8182e0103717682ACd1632bD19891F94BbA5C32a ✅ Minted 10,000 USDC to deployer
 
 ## **What It Does**
 
-BlitzSwap transforms Linera into a professional trading terminal:
+RiftDex transforms Aleo into a professional trading terminal:
 
 * Real-time **multi-chart interface** (spot + perps)
 * **AI agents** for signals, trend analysis & copy-trading
@@ -36,9 +36,9 @@ Centralized exchanges are:
 
 Most DEXs are clunky and don't feel professional.
 
-**BlitzSwap** leverages:
+**RiftDex** leverages:
 
-* Linera’s ultra-fast, low-fee environment
+* Aleo’s ultra-fast, low-fee environment
 * Chainlink price feeds
 * Hybrid on-chain AI
 
@@ -53,15 +53,15 @@ Most DEXs are clunky and don't feel professional.
 * On-chain **community** features & token leaderboards
 * **Push Protocol notifications** for trades & alerts
 * **Mobile-first**, optimized for speed and responsiveness
-* Instant, low-cost transactions thanks to Linera
+* Instant, low-cost transactions thanks to Aleo
 
 ---
 
 ## **Roadmap – Six Waves to Mainnet & Fundraising**
 
 **Wave 1:** Ideation & MVP – **Done**
-**Wave 2:** Core Trading Engine + AI Signals – **Live on Linera Mumbai**
-**Wave 3:** Copy-trading & BlitzSwap Agents – *Next 4 weeks*
+**Wave 2:** Core Trading Engine + AI Signals – **Live on Aleo Mumbai**
+**Wave 3:** Copy-trading & RiftDex Agents – *Next 4 weeks*
 **Wave 4:** Intelligent NFTs (iNFTs) – *On-chain evolving strategies*
 **Wave 5:** AggLayer Cross-chain + Mobile Apps
 **Wave 6:** Governance Token + DAO Treasury
@@ -72,7 +72,7 @@ Most DEXs are clunky and don't feel professional.
 
 * **Next.js + TypeScript + Tailwind CSS** – frontend
 * **Solidity + Hardhat** – smart contracts
-* **Linera CDK + Mumbai/Amoy** – deployments
+* **Aleo CDK + Mumbai/Amoy** – deployments
 * **Chainlink Data Feeds + Automation** – real-time pricing
 * **The Graph** – indexing trades & signals
 * **Push Protocol** – live notifications
@@ -83,7 +83,7 @@ Most DEXs are clunky and don't feel professional.
 ## **How We Built It**
 
 * Designed UX in **Figma → Next.js + Tailwind** implementation
-* Deployed core vault & trading contracts on Linera
+* Deployed core vault & trading contracts on Aleo
 * Integrated **Chainlink** price feeds
 * Built hybrid **AI agents** (off-chain inference → on-chain execution)
 * Added **The Graph** & Push notifications for sub-second experiences
@@ -101,7 +101,7 @@ Most DEXs are clunky and don't feel professional.
 
 ## **What We Learned**
 
-* Linera’s **<2s finality + sub-cent gas** makes it feel like Web2
+* Aleo’s **<2s finality + sub-cent gas** makes it feel like Web2
 * Push notifications dramatically improve retention
 * Governance & tokenomics matter much earlier than expected
 * Hybrid AI = best balance of speed + decentralization
@@ -110,7 +110,7 @@ Most DEXs are clunky and don't feel professional.
 
 ## **What's Next**
 
-* **BlitzSwap Agents:** autonomous AI traders you can copy or stake on
+* **RiftDex Agents:** autonomous AI traders you can copy or stake on
 * **iNFTs:** NFTs that evolve with your trading strategy
 * **AggLayer cross-chain engine** (ETH, Base, Arbitrum)
 * Native **iOS/Android** apps
@@ -122,12 +122,12 @@ Most DEXs are clunky and don't feel professional.
 ## **Installation**
 
 ```bash
-git clone https://github.com/yourusername/blitzswap.git
-cd blitzswap
+git clone https://github.com/yourusername/riftdex.git
+cd riftdex
 npm install
 
 cp .env.example .env.local
-# Add your Linera RPC, Chainlink keys, Push keys, etc.
+# Add your Aleo RPC, Chainlink keys, Push keys, etc.
 
 npm run dev
 ```
@@ -157,8 +157,8 @@ Maintainer: **@yourusername**
 
 ## **Acknowledgments**
 
-Huge thanks to **Linera Labs** and the entire Linera ecosystem for building the fastest, cheapest, and most developer-friendly chain in Web3.
+Huge thanks to **Aleo Labs** and the entire Aleo ecosystem for building the fastest, cheapest, and most developer-friendly chain in Web3.
 
 ---
 
-## **BlitzSwap – Real-time. AI-native. Built on Linera. Ready to raise.**
+## **RiftDex – Real-time. AI-native. Built on Aleo. Ready to raise.**
